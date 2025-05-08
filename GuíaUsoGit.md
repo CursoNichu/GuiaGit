@@ -57,7 +57,7 @@ graph TD;
 git-push-->git-add;
 ```
 <br><br>
-#Clonar un Repositorio
+# Clonar un Repositorio
 Para clonar un repertorio, lo primero hay que buscar el repertorio que vamos a clonar a nuestro ordenador.
 Una vez que ya hemos seleccionado lo que vamos a clonar, hay que ir al **Explorador de archivos** de nuestro ordenador.
 Ir a donde vamos a guardar el repertorio y crear una carperta.
@@ -67,5 +67,5 @@ Abrir el terminal Git y escribir códigos:
 Esperamos y ya se descarga lo que hemos querido clonar.
 
 <br><br>
-#Hacer Fork de un repositorio
+# Hacer Fork de un repositorio
 Una vez buscado, se le pincha en el botón ***FORK*** y luego a ***Create a new fork***.
