@@ -50,11 +50,10 @@
 
 ```mermaid
 graph TD;
-    **git init**-->**git remote add origin "enlace"**;
-    **git remote add origin "enlace"**-->**git add "nombre del archivo o ."**;
-    **git add "nombre del archivo o ."**-->**git commit -m "comentario"**;
-    **git commit -m "comentario"**-->**git push**;
-    **git push**-->**git init**;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 Clonar un Repositorio
